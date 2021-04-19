@@ -1,0 +1,98 @@
+[ [ "com.company.song.Single", {
+  "songName" : "Втюрилась",
+  "singer" : "Дора",
+  "duration" : 123,
+  "placeInChart" : 57,
+  "studio" : "Rhymes Music Inc"
+} ], [ "com.company.song.Single", {
+  "songName" : "Дора дура",
+  "singer" : "Дора",
+  "duration" : 133,
+  "placeInChart" : 1000,
+  "studio" : "Rhymes Music Inc"
+} ], [ "com.company.song.Single", {
+  "songName" : "Пошлю его на...",
+  "singer" : "Дора",
+  "duration" : 183,
+  "placeInChart" : 1000,
+  "studio" : "Rhymes Music Inc"
+} ], [ "com.company.song.Single", {
+  "songName" : "Ахегао",
+  "singer" : "МЭЙБИ БЭЙБИ",
+  "duration" : 169,
+  "placeInChart" : 1000,
+  "studio" : "Rhymes Music Inc"
+} ], [ "com.company.song.Single", {
+  "songName" : "Cristal МОЁТ",
+  "singer" : "MORGENSHTERN",
+  "duration" : 137,
+  "placeInChart" : 18,
+  "studio" : "Zhara Distribution"
+} ], [ "com.company.song.Single", {
+  "songName" : "Cadillac",
+  "singer" : "MORGENSHTERN",
+  "duration" : 177,
+  "placeInChart" : 54,
+  "studio" : "Zhara Distribution"
+} ], [ "com.company.song.Single", {
+  "songName" : "Тлеет",
+  "singer" : "SVNV",
+  "duration" : 150,
+  "placeInChart" : 63,
+  "studio" : "Atlantic Records"
+} ], [ "com.company.song.Single", {
+  "songName" : "Бла Бла",
+  "singer" : "МЭЙБИ БЭЙБИ",
+  "duration" : 157,
+  "placeInChart" : 1000,
+  "studio" : "Rhymes Music Inc"
+} ], [ "com.company.song.Live", {
+  "songName" : "Юморист",
+  "singer" : "FACE",
+  "duration" : 143,
+  "placeInChart" : 24,
+  "date" : "11 февраля 2019 года",
+  "place" : "Москва"
+} ], [ "com.company.song.Live", {
+  "songName" : "Лабиринт",
+  "singer" : "FACE",
+  "duration" : 169,
+  "placeInChart" : 67,
+  "date" : "1 октября 2019 года",
+  "place" : "Москва"
+} ], [ "com.company.song.Live", {
+  "songName" : "СПАСАТЕЛЬНЫЙ КРУГ",
+  "singer" : "FACE",
+  "duration" : 153,
+  "placeInChart" : 1000,
+  "date" : "1 февраля 2019 года",
+  "place" : "Москва"
+} ], [ "com.company.song.Live", {
+  "songName" : "Мой Калашников",
+  "singer" : "FACE",
+  "duration" : 148,
+  "placeInChart" : 1000,
+  "date" : "1 февраля 2019 года",
+  "place" : "Москва"
+} ], [ "com.company.song.Live", {
+  "songName" : "Рэйман",
+  "singer" : "FACE",
+  "duration" : 143,
+  "placeInChart" : 5,
+  "date" : "15 декабря 2020 года",
+  "place" : "Москва"
+} ], [ "com.company.song.Live", {
+  "songName" : "В моих глазах",
+  "singer" : "Обстоятельства",
+  "duration" : 180,
+  "placeInChart" : 1000,
+  "date" : "20 сентября 2019 года",
+  "place" : "Москва"
+} ], [ "com.company.song.Live", {
+  "songName" : "Дождь",
+  "singer" : "Екатерина Яшникова",
+  "duration" : 186,
+  "placeInChart" : 1000,
+  "date" : "27 ноября 2020 года",
+  "place" : "Москва"
+} ] ]
